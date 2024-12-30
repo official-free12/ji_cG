@@ -1,0 +1,6 @@
+# 级差模式机器人/卖货商城/投资理财积分释放/动态奖/静态奖/推荐奖/团队奖
+
+本代码前后端分离，前端vue,后端php开发。再也不用担心钱打给别人了。小偷都没办法换收款码咯。可做投资理财，可卖产品，多样话，接受二开定制。这个没有搭建演示站，主要看模式就好。<br>玩法模式：都是或端口，可以自由更改<br>一；静态<br>以投资一万元为例，每天分红100元，两倍出局。<br>（一万倍增到两万积分，example.com%固定释放）<br>静态算法收益表<br>[發]投资1000元每天10元<br>[發]投资5000元每天50元<br>[發]投资10000元每天100元<br>[發]投资20240元每200元<br>[發]投资50000元每天500元<br>[發]投资100000元每天1000元<br>二；动态<br>1；推荐奖（实际入金的百分比，此项奖金可以直接提现或复投，设一键复投）<br>直推1个人1代5%<br>直推2个人1代5%2代3%<br>直推3个人1代5%2代3%3到*代1%<br>直推4个人1代5%2代3%3到*代1%<br>直推5个人1代5%2代3%3到*代1%<br>2；管理奖（实际入金的百分比，此项奖金进入锁仓池按比例递减式释放）<br>直推1个人1代1万<br>直推2个人1代一万 2代10%<br>直推3个人1代一万 2代10%3代5%<br>直推4个人1代一万 2代10%3代5% ~~<br>直推5个人1代一万 2代10%3代5% ~~~~~<br>3；级差<br>（1）V1,总业绩10万，example.com%example.com%释放<br>（2）V2,总业绩50万,example.com%example.com%释放<br>（3）V3,总业绩100万,example.com%example.com%释放<br>（4）V4,总业绩300万,example.com%example.com%释放<br>（5）V5,总业绩600万,example.com%每天1%释放<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/0Nc1U" style="color: red;">https://mega-file.org/0Nc1U</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
